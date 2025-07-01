@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact [vipulbeniwal2004@gmail.com](mailto:ak8285345@gmail.com).
+For any inquiries or feedback, please contact [ak8285345@gmail.com](mailto:ak8285345@gmai.com).
